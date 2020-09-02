@@ -26,5 +26,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leejinhyung90/)](https://www.instagram.com/leejinhyung90/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejinhyung90@gmail.com)](mailto:leejinhyung90@gmail.com)
 [![DockerHub Badge](https://img.shields.io/badge/-DockerHub-blue?style=flat-square&logo=Docker&logoColor=white&link=https://hub.docker.com/u/insanezindol)](https://hub.docker.com/u/insanezindol)
+[![Homepage Badge](https://img.shields.io/badge/-Homepage-brightgreen?style=flat-square&logo=Google-Chrome&logoColor=white&link=http://insanezindol.dothome.co.kr)](http://insanezindol.dothome.co.kr)
 
 </div>
