@@ -16,7 +16,7 @@
 - Tools : IntelliJ, Eclipse, Docker, Github, Gitlab, Jira, Slack, Teams, Sourcetree, Figma
 - ETC : MSA, JPA, myBatis, Kibana, JavaScript, jQuery, CSS, Bootstrap
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=insanezindol&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=insanezindol&show_icons=true&theme=dracula&hide=stars,commits,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insanezindol&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
