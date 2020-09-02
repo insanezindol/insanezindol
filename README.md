@@ -16,11 +16,11 @@
 - Tools : IntelliJ, Eclipse, Docker, Github, Gitlab, Jira, Slack, Teams, Sourcetree, Figma
 - ETC : MSA, JPA, myBatis, Kibana, JavaScript, jQuery, CSS, Bootstrap
 
+<div align=center>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=insanezindol&show_icons=true&theme=dracula&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insanezindol&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align=center>
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/insanezindol)](https://www.facebook.com/insanezindol) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leejinhyung90/)](https://www.instagram.com/leejinhyung90/) 
