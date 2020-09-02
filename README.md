@@ -7,7 +7,7 @@
 ### Hi there, I'm insanezindol 👋
 - Java Backend Developer
 
-### Skill 🤒
+### Skill 🙈
 - Language : JAVA, SQL, JSON, XML
 - Framework : Spring Framework, Spring Boot
 - Database : Oracle, MS-SQL, MySQL, MariaDB, Mongo, Redis, elasticsearch
