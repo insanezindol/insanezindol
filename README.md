@@ -5,27 +5,22 @@
 </div>
 
 ### Hi there, I'm insanezindol 👋
-- Java Backend Developer
+- Java Backend Engineer
 
 ### Stacks 🛠
-#### Back-End
-- Java11, Kotlin
-- Spring Boot, Spring Framework
-- AWS : EC2, S3, RDS, DynamoDB, SNS, SQS, SES, Lambda, CloudSearch, Route 53, OpenSearch Service
+#### Backend
+- Java, Spring Boot, Spring Framework
+- AWS : EC2, DynamoDB, SNS, SQS, S3, RDS, ElasticCache, Route53, Lambda, ECR, EKS, CloudWatch, CloudSearch, API Gateway, IAM
 - MySQL, PostgreSQL, Oracle, SQL Server
-- redis, mongoDB, elasticsearch, kibana, Datadog
+- Redis, MongoDB, Elasticsearch, Kibana, Datadog, Grafana
 - Kafka, RabbitMQ
-- Docker, k8s
-
-#### Front-End
-- HTML, CSS, JS, jQuery, Bootstrap, Vue.js
+- Docker, k8s, Helm, Terraform
 
 #### Collaboration & Tools
 - Slack, Teams
 - IntelliJ
 - Jira, Confluence, Figma
 - Github, Gitlab
-
 
 <div align=center>
 
