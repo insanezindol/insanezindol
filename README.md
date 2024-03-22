@@ -24,8 +24,6 @@
 
 <div align=center>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=insanezindol&show_icons=true&theme=dracula&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insanezindol&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejinhyung90@gmail.com)](mailto:leejinhyung90@gmail.com)
