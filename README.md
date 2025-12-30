@@ -1,5 +1,5 @@
 ### Hi there, I'm insanezindol 👋
-- Java Backend Engineer
+- Backend Engineer
 
 ### Stacks 🛠
 #### Backend
@@ -14,9 +14,7 @@
 
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insanezindol&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejinhyung90@gmail.com)](mailto:leejinhyung90@gmail.com)
-[![Homepage Badge](https://img.shields.io/badge/-Homepage-brightgreen?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://velog.io/@insanezindol)](https://velog.io/@insanezindol)
+[![Blog Badge](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@insanezindol)](https://velog.io/@insanezindol)
 
 </div>
+
